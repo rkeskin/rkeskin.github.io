@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://github.com/rkeskin/rkeskin.github.io/blob/master/images/profile.png"
+  avatar           : "profile.png"
   name             : "Rıdvan Keskin"
   pronouns         : # example: "she/her"  
   bio              : "Researcher"
