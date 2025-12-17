@@ -34,15 +34,15 @@ author:
 
   # Academic websites
   academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : "https://arxiv.org/search/eess?searchtype=author&query=Keskin,+R"
   googlescholar    : "https://scholar.google.com/citations?user=rX-GK4AAAAAJ&hl=tr"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-3232-0928"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Ridvan-Keskin-3?ev=hdr_xprf"
   scopus           : # URL
   zotero           : # URL
 
